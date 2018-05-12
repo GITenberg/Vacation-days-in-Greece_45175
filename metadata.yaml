@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '43134'
     url: http://www.gutenberg.org/2009/agents/43134
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45175#Vacation-days-in-Greece
 gutenberg_issued: '2014-03-19'
 gutenberg_type: Text
 identifiers:
