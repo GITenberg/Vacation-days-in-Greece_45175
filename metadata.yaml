@@ -1,0 +1,28 @@
+_repo: Vacation-days-in-Greece_45175
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45175-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Richardson, Rufus B. (Rufus Byam)
+    alias: Richardson, Rufus Byam
+    birthdate: 1845
+    deathdate: 1914
+    gutenberg_agent_id: '43134'
+    url: http://www.gutenberg.org/2009/agents/43134
+description: ''
+gutenberg_issued: '2014-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45175'
+  lccn: 03023398
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DF'
+- !lcsh 'Greece -- Description and travel'
+title: Vacation days in Greece
+url: http://www.gutenberg.org/ebooks/45175
